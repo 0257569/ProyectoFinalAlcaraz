@@ -1,0 +1,3 @@
+To DO:
+-Find a way to draw recursively your sons
+-Stablish an array of coordenates for width
